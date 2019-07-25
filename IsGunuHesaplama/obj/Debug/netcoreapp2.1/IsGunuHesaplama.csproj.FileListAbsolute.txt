@@ -1,0 +1,11 @@
+F:\Gonca_Repo\IsGunuHesaplama\IsGunuHesaplama\bin\Debug\netcoreapp2.1\IsGunuHesaplama.deps.json
+F:\Gonca_Repo\IsGunuHesaplama\IsGunuHesaplama\bin\Debug\netcoreapp2.1\IsGunuHesaplama.runtimeconfig.json
+F:\Gonca_Repo\IsGunuHesaplama\IsGunuHesaplama\bin\Debug\netcoreapp2.1\IsGunuHesaplama.runtimeconfig.dev.json
+F:\Gonca_Repo\IsGunuHesaplama\IsGunuHesaplama\bin\Debug\netcoreapp2.1\IsGunuHesaplama.dll
+F:\Gonca_Repo\IsGunuHesaplama\IsGunuHesaplama\bin\Debug\netcoreapp2.1\IsGunuHesaplama.pdb
+F:\Gonca_Repo\IsGunuHesaplama\IsGunuHesaplama\obj\Debug\netcoreapp2.1\IsGunuHesaplama.csproj.CoreCompileInputs.cache
+F:\Gonca_Repo\IsGunuHesaplama\IsGunuHesaplama\obj\Debug\netcoreapp2.1\IsGunuHesaplama.AssemblyInfoInputs.cache
+F:\Gonca_Repo\IsGunuHesaplama\IsGunuHesaplama\obj\Debug\netcoreapp2.1\IsGunuHesaplama.AssemblyInfo.cs
+F:\Gonca_Repo\IsGunuHesaplama\IsGunuHesaplama\obj\Debug\netcoreapp2.1\IsGunuHesaplama.dll
+F:\Gonca_Repo\IsGunuHesaplama\IsGunuHesaplama\obj\Debug\netcoreapp2.1\IsGunuHesaplama.pdb
+F:\Gonca_Repo\IsGunuHesaplama\IsGunuHesaplama\obj\Debug\netcoreapp2.1\IsGunuHesaplama.csprojAssemblyReference.cache
